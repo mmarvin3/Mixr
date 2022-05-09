@@ -1,1 +1,1 @@
-alert('It is linked')
+//alert('It is linked')
