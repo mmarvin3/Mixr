@@ -7,8 +7,9 @@ header, footer{
 }
 
 header{
-    background-color: darkred;
+    background-color: rgb(183, 22, 22);
     height: 80px;
+    font-size: 60px;
     
 }
 
@@ -16,7 +17,7 @@ body{
     margin: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: grid;
-    min-height: 100vh;
+    min-height: 80vh;
     display: grid;
     grid-template-columns: 1fr 4fr;
     grid-template-rows: 50px 1fr 30px;
@@ -29,11 +30,16 @@ body{
     font-size: 50 px;
 }
 
+.flex-ctr{
+    background-color: dodgerblue;
+}
+
 footer{
     background-color: red;
     display: flex;
     justify-content: center;
     align-items: flex-end;
+    height: 100px;
 }
 .flex-footer{
     display: flex;
