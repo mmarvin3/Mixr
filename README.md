@@ -1,9 +1,7 @@
 # Mixr
 #### Find your new favorite cocktail.
 
-<img src="./images/firstshot.png" alt="Home Page Welcome Screen"/>
 <img src="./images/secondshot.png" alt="First Cocktail Recommendation"/>
-<img src="./images/thirdshot.png" alt="Table Full of Drinks"/>
 
 
 ## Description
