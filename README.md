@@ -23,8 +23,8 @@ Mixr is an app that will recommend you a cocktail at random. The app will provid
 ## Features
 * App pulls cocktail information from 3rd party API
 
-## Whiteboard Images
-* All Sketches are on notepad
+## Wireframe
+* <img src="./images/Wireframe.png" alt="Wireframe"/>
 
 ## Trello Planning
 * Link to Trello: https://trello.com/b/OFkxLvwt/project-one-web-app
