@@ -36,7 +36,7 @@ Mixr is an app that will recommend you a cocktail at random. The app will provid
 * N/A
 
 * You can view the deployed app here:
-[Click Here](https://627d9b9f0caf4913c1757fc1--effervescent-squirrel-e69678.netlify.app/)
+[Click Here](https://mixr.netlify.app)
 
     
 ## Works Cited:
