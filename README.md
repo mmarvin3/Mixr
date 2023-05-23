@@ -5,7 +5,7 @@
 
 
 ## Description
-Mixr is an app that will recommend you a cocktail at random. The app will provide the user the name of the coctail, ingredients, instructions, and a photo of the drink.
+Mixr is an app that will recommend you a cocktail at random. The app will provide the user the name of the cocktail, ingredients, instructions, and a photo of the drink.
 
 ## Table of Contents
 * [Technologies Used](#technologiesused)
